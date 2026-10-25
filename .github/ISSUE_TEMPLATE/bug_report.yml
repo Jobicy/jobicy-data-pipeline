@@ -1,0 +1,10 @@
+name: Bug report
+description: Report a reproducible issue
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Reproduction steps and expected behavior
+      description: Include runtime versions. Remove credentials and personal data.
+    validations:
+      required: true

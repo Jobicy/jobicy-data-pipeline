@@ -1,0 +1,3 @@
+jobicy-jobs @ git+https://github.com/Jobicy/jobicy-python.git@d574550674f932c756f16f6885f5e3676739afba
+psycopg[binary]>=3.2.9,<4
+python-dotenv>=1.1,<2
